@@ -21,6 +21,7 @@ export default {
 
 .card{
   width: 25%;
+  min-width: 322px;
   height: 72%;
   min-height:600px; 
   border: 5px solid #DDC706;

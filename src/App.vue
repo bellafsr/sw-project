@@ -53,6 +53,7 @@ html,body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding:5% 0;
 }
 
 #app .btn-next{
